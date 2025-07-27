@@ -70,6 +70,6 @@ gantt
     click dtie href "https://www.edfringe.com/tickets/whats-on/dan-tiernan-all-in
         
     Stevie Martin-old-MnkyBar : smar, 14:50, 1h
-    click smar hreft "https://www.edfringe.com/tickets/whats-on/stevie-martin-clout"
+    click smar href "https://www.edfringe.com/tickets/whats-on/stevie-martin-clout"
 
 ```
