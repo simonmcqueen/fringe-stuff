@@ -1,6 +1,9 @@
 # fringe-stuff
 ```mermaid
-
+---
+config:
+    securityLevel: 'loose'
+---
 gantt
     title Festival Stuff
     dateFormat  HH:mm
