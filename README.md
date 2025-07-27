@@ -66,10 +66,11 @@ gantt
     Luke McQueen-Pleas Dome : lmcq, 21:40, 1h
     click lmcq href "https://www.edfringe.com/tickets/whats-on/luke-mcqueen-comedian-s-comedian"
 
-    Stevie Martin-old-MnkyBar : smar, 14:50, 1h
-    click smar href "https://www.edfringe.com/tickets/whats-on/stevie-martin-clout"
-
     Dan Tiernam-Mnky Barr : dtie, 22:25, 1h
-    click dtie href "https://www.edfringe.com/tickets/whats-on/dan-tiernan-all-in
+    click dtie href "https://www.edfringe.com/tickets/whats-on/dan-tiernan-all-in"
+
+    Stevie Martin old MnkyBar : smar, 14:50, 1h
+
+    
         
 ```
