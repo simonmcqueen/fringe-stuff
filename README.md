@@ -2,7 +2,7 @@
 ```mermaid
 ---
 config:
-    securityLevel: 'loose'
+    securityLevel: 'sandbox'
 ---
 gantt
     title Festival Stuff
