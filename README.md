@@ -69,7 +69,7 @@ gantt
     Dan Tiernam-Mnky Barr : dtie, 22:25, 1h
     click dtie href "https://www.edfringe.com/tickets/whats-on/dan-tiernan-all-in
         
-    Stevie Martin(old)-MnkyBar : smar, 14:50, 1h
+    Stevie Martin-old-MnkyBar : smar, 14:50, 1h
     click smar hreft "https://www.edfringe.com/tickets/whats-on/stevie-martin-clout"
 
 ```
